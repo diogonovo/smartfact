@@ -1,0 +1,762 @@
+2025-03-27 11:02:05,923 - DataStorage - INFO - Banco de dados inicializado com sucesso
+2025-03-27 11:02:05,924 - DataStorage - INFO - DataStorage inicializado com banco de dados em: ../data\industrial_data.db
+2025-03-27 11:02:05,933 - DataStorage - INFO - Máquina ID 1 inserida
+2025-03-27 11:02:05,945 - DataStorage - INFO - Parâmetro ID 1 inserido
+2025-03-27 11:02:05,954 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,956 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,957 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,958 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,959 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,959 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,960 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,961 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,962 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,962 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,963 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,963 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,964 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,965 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,966 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,967 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,968 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,969 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,971 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,973 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,975 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,976 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,977 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,978 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,979 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,981 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,982 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:02:05,983 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:05,984 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:05,985 - DataStorage - INFO - Parâmetro ID 2 inserido
+2025-03-27 11:02:05,999 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,001 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,003 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,005 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,007 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,008 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,009 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,010 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,010 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,011 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,012 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,013 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,014 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,015 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,015 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,016 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,018 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,018 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,018 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,019 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,020 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,021 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,023 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,023 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,024 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,025 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,025 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:02:06,026 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,027 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,028 - DataStorage - INFO - Parâmetro ID 3 inserido
+2025-03-27 11:02:06,039 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,041 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,041 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,042 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,043 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,043 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,044 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,045 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,046 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,046 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,047 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,048 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,048 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,049 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,049 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,050 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,051 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,051 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,052 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,052 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,053 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,054 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,056 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,057 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,057 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,059 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,060 - DataStorage - INFO - Parâmetro ID 3 atualizado
+2025-03-27 11:02:06,061 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,062 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,063 - DataStorage - INFO - Parâmetro ID 4 inserido
+2025-03-27 11:02:06,073 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,074 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,076 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,076 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,078 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,079 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,080 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,081 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,082 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,084 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,084 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,085 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,085 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,089 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,090 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,091 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,092 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,092 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,094 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,095 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,096 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,096 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,097 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,098 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,099 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,099 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,100 - DataStorage - INFO - Parâmetro ID 4 atualizado
+2025-03-27 11:02:06,101 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,102 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,106 - DataStorage - INFO - Parâmetro ID 5 inserido
+2025-03-27 11:02:06,116 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,117 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,118 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,119 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,121 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,122 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,123 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,124 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,125 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,126 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,127 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,127 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,128 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,129 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,130 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,130 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,131 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,131 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,133 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,134 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,134 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,135 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,136 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,137 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,139 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,140 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:02:06,141 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:02:06,141 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,144 - DataStorage - INFO - Máquina ID 2 inserida
+2025-03-27 11:02:06,156 - DataStorage - INFO - Parâmetro ID 6 inserido
+2025-03-27 11:02:06,168 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,169 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,170 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,172 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,173 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,175 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,176 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,178 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,179 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,180 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,181 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,182 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,183 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,184 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,185 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,186 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,188 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,189 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,189 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,190 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,191 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,191 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,192 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,193 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,194 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,195 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,196 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:02:06,196 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,197 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,198 - DataStorage - INFO - Parâmetro ID 7 inserido
+2025-03-27 11:02:06,208 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,210 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,210 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,211 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,212 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,212 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,213 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,214 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,214 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,215 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,216 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,216 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,217 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,218 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,219 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,219 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,222 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,223 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,224 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,225 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,226 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,227 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,228 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,228 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,229 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,230 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,231 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:02:06,232 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,233 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,234 - DataStorage - INFO - Parâmetro ID 8 inserido
+2025-03-27 11:02:06,245 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,246 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,248 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,249 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,250 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,252 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,252 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,253 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,255 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,256 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,257 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,257 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,258 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,259 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,259 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,260 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,261 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,262 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,263 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,264 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,265 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,266 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,267 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,268 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,268 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,269 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,270 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:02:06,271 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,272 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,273 - DataStorage - INFO - Parâmetro ID 9 inserido
+2025-03-27 11:02:06,285 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,286 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,288 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,289 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,291 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,291 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,292 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,293 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,293 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,294 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,295 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,295 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,296 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,297 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,297 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,298 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,299 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,299 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,300 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,301 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,301 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,302 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,304 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,305 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,307 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,308 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,308 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:02:06,309 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,310 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,311 - DataStorage - INFO - Parâmetro ID 10 inserido
+2025-03-27 11:02:06,322 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,323 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,324 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,324 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,325 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,326 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,326 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,327 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,328 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,328 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,329 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,329 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,331 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,331 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,332 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,333 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,335 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,335 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,336 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,339 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,339 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,341 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,341 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,342 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,342 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,343 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:02:06,344 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:02:06,344 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,345 - DataStorage - INFO - Máquina ID 3 inserida
+2025-03-27 11:02:06,356 - DataStorage - INFO - Parâmetro ID 11 inserido
+2025-03-27 11:02:06,369 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,371 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,372 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,373 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,374 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,375 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,375 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,376 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,377 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,377 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,378 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,379 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,379 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,380 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,380 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,381 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,382 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,382 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,383 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,384 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,385 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,390 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,392 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,395 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,406 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,418 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,421 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:02:06,423 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,424 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,427 - DataStorage - INFO - Parâmetro ID 12 inserido
+2025-03-27 11:02:06,444 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,445 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,446 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,447 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,447 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,448 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,448 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,449 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,450 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,451 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,451 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,452 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,452 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,453 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,455 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,456 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,457 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,457 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,458 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,459 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,459 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,460 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,461 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,461 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,462 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,462 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,463 - DataStorage - INFO - Parâmetro ID 12 atualizado
+2025-03-27 11:02:06,463 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,467 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,468 - DataStorage - INFO - Parâmetro ID 13 inserido
+2025-03-27 11:02:06,478 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,479 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,480 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,481 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,482 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,483 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,483 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,484 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,485 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,485 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,486 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,487 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,489 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,490 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,490 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,491 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,492 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,492 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,493 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,494 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,495 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,496 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,496 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,497 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,498 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,499 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,499 - DataStorage - INFO - Parâmetro ID 13 atualizado
+2025-03-27 11:02:06,500 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,501 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,502 - DataStorage - INFO - Parâmetro ID 14 inserido
+2025-03-27 11:02:06,517 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,518 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,518 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,519 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,520 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,524 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,526 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,530 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,532 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,534 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,537 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,539 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,541 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,543 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,545 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,547 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,549 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,551 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,552 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,556 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,558 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,559 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,561 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,562 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,562 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,563 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,564 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:02:06,564 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,565 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,567 - DataStorage - INFO - Parâmetro ID 15 inserido
+2025-03-27 11:02:06,581 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,582 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,583 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,585 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,586 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,594 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,595 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,596 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,598 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,598 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,600 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,601 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,602 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,605 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,606 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,608 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,609 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,610 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,611 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,611 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,612 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,613 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,613 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,614 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,614 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,615 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:02:06,616 - DataStorage - INFO - Parâmetro ID 15 atualizado
+2025-03-27 11:02:06,617 - DataStorage - ERROR - Erro ao armazenar leitura: Error binding parameter 3: type 'Timestamp' is not supported
+2025-03-27 11:02:06,617 - DataStorage - INFO - Armazenados 150 registros no banco de dados
+2025-03-27 11:02:06,629 - DataStorage - INFO - Consulta retornou 0 registros
+2025-03-27 11:02:06,631 - DataStorage - INFO - Consulta de anomalias retornou 0 registros
+2025-03-27 11:02:06,638 - DataStorage - INFO - Consulta de estatísticas retornou 3 registros
+2025-03-27 11:17:18,065 - DataStorage - INFO - Banco de dados inicializado com sucesso
+2025-03-27 11:17:18,066 - DataStorage - INFO - DataStorage inicializado com banco de dados em: ../data\industrial_data.db
+2025-03-27 11:17:18,068 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,079 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,091 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,093 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,104 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,105 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,116 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,117 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,130 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,131 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,144 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,145 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,159 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,160 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,180 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,180 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,192 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,193 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,204 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,206 - DataStorage - INFO - Parâmetro ID 1 atualizado
+2025-03-27 11:17:18,222 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,223 - DataStorage - INFO - Parâmetro ID 16 inserido
+2025-03-27 11:17:18,247 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,248 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,262 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,263 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,276 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,277 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,287 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,288 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,298 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,299 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,309 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,309 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,321 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,322 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,333 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,334 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,347 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,348 - DataStorage - INFO - Parâmetro ID 16 atualizado
+2025-03-27 11:17:18,357 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,358 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,368 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,369 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,383 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,383 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,395 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,396 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,405 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,406 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,418 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,419 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,434 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,435 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,446 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,447 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,457 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,457 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,468 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,469 - DataStorage - INFO - Parâmetro ID 5 atualizado
+2025-03-27 11:17:18,481 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,483 - DataStorage - INFO - Parâmetro ID 17 inserido
+2025-03-27 11:17:18,505 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,506 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,515 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,517 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,528 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,529 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,539 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,540 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,554 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,555 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,566 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,567 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,578 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,579 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,589 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,589 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,602 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,603 - DataStorage - INFO - Parâmetro ID 17 atualizado
+2025-03-27 11:17:18,624 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,626 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,640 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,643 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,655 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,658 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,672 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,675 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,690 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,693 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,706 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,708 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,718 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,719 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,733 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,734 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,747 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,749 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,762 - DataStorage - INFO - Máquina ID 1 atualizada
+2025-03-27 11:17:18,763 - DataStorage - INFO - Parâmetro ID 2 atualizado
+2025-03-27 11:17:18,773 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,774 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,783 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,784 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,793 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,794 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,804 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,806 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,817 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,819 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,832 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,834 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,847 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,848 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,860 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,860 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,868 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,868 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,877 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,878 - DataStorage - INFO - Parâmetro ID 6 atualizado
+2025-03-27 11:17:18,888 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,889 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,903 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,905 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,920 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,921 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,933 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,934 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,943 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,944 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,952 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,953 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,962 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,963 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,975 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,976 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,987 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,989 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:18,999 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:18,999 - DataStorage - INFO - Parâmetro ID 7 atualizado
+2025-03-27 11:17:19,013 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,014 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,028 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,029 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,040 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,041 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,051 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,052 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,065 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,066 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,079 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,080 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,089 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,090 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,100 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,100 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,112 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,112 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,122 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,123 - DataStorage - INFO - Parâmetro ID 8 atualizado
+2025-03-27 11:17:19,134 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,135 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,147 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,148 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,158 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,159 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,173 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,174 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,185 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,186 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,201 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,202 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,215 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,216 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,231 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,233 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,246 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,247 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,257 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,258 - DataStorage - INFO - Parâmetro ID 9 atualizado
+2025-03-27 11:17:19,269 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,271 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,282 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,283 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,298 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,299 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,313 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,314 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,324 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,325 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,335 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,336 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,348 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,349 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,361 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,362 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,371 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,372 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,384 - DataStorage - INFO - Máquina ID 2 atualizada
+2025-03-27 11:17:19,384 - DataStorage - INFO - Parâmetro ID 10 atualizado
+2025-03-27 11:17:19,396 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,404 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,415 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,416 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,427 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,428 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,438 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,439 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,449 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,450 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,462 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,463 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,472 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,473 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,485 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,485 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,498 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,499 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,512 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,513 - DataStorage - INFO - Parâmetro ID 11 atualizado
+2025-03-27 11:17:19,524 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,526 - DataStorage - INFO - Parâmetro ID 18 inserido
+2025-03-27 11:17:19,550 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,551 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,568 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,569 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,588 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,591 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,602 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,603 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,617 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,617 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,632 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,633 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,649 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,650 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,664 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,665 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,677 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,679 - DataStorage - INFO - Parâmetro ID 18 atualizado
+2025-03-27 11:17:19,702 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,702 - DataStorage - INFO - Parâmetro ID 19 inserido
+2025-03-27 11:17:19,736 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,737 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,751 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,752 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,767 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,768 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,780 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,781 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,795 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,796 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,808 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,809 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,820 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,821 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,835 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,839 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,854 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,857 - DataStorage - INFO - Parâmetro ID 19 atualizado
+2025-03-27 11:17:19,871 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,873 - DataStorage - INFO - Parâmetro ID 20 inserido
+2025-03-27 11:17:19,894 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,895 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,909 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,910 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,921 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,922 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,933 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,933 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,945 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,946 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,956 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,957 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,967 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,968 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,980 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,981 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:19,991 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:19,992 - DataStorage - INFO - Parâmetro ID 20 atualizado
+2025-03-27 11:17:20,003 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,005 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,018 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,019 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,032 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,033 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,048 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,049 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,062 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,062 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,071 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,073 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,083 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,084 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,098 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,100 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,113 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,115 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,124 - DataStorage - INFO - Máquina ID 3 atualizada
+2025-03-27 11:17:20,126 - DataStorage - INFO - Parâmetro ID 14 atualizado
+2025-03-27 11:17:20,131 - DataStorage - INFO - Armazenados 150 registros no banco de dados
+2025-03-27 11:17:20,138 - DataStorage - INFO - Consulta retornou 20 registros
+2025-03-27 11:17:20,141 - DataStorage - INFO - Consulta de anomalias retornou 0 registros
+2025-03-27 11:17:20,143 - DataStorage - INFO - Consulta de estatísticas retornou 3 registros
